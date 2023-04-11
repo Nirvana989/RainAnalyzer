@@ -1,0 +1,24 @@
+1) Necessary Platforms 
+      -VS Code(IDE)
+      -Jupyter Notebook
+      
+   Technology used 
+      -python
+      -machine learning
+      -html
+      -css
+      -bootstrap
+      -javascript
+
+2)Install all required libraries
+	-flask
+	-sklearn
+	-pandas
+	-numpy
+	-matplotlib
+	
+3)How to run
+	-Open your environment with all neccessary plug-ins
+	-Open Source Code Folder
+	-run main.py file (python main.py)
+	-Copy the generted URL in your browser
